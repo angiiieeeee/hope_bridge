@@ -1,0 +1,160 @@
+.logoPic{
+    max-width: 100%;
+    width: 90px;
+    height: 90px;
+    max-height: 100%;
+    border-radius: 50%;
+    
+}
+
+.namePic{
+    background: #676a6d;
+    max-width: 100%;
+    width: 300px;
+}
+
+.navbar-collapse{
+  background: #212529;
+  display: flex;
+  justify-content: space-between;
+}
+
+.btn-dark{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: larger;
+}
+
+.homeIntro{
+    margin-top: 30px;
+    display: flex;
+}
+
+.articleHome{
+    max-width: 100%;
+    width: 800px;
+    text-align: justify;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-right: 60px;
+}
+
+.betterPerson{
+    font-weight: 800;
+}
+
+.videoHome{
+    justify-content: space-between;
+}
+
+.whatWeDo{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.titleWeDo{
+    text-align: right;
+    font-weight: 800;
+}
+
+.whatDoWeDo{
+    text-align: justify;
+    max-width: 100%;
+    width: 980px;
+
+}
+
+.equalrights{
+    max-width: 100%;
+    width: 250px;
+    max-height: 100%;
+    height: 318px;
+}
+
+.stats{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+}
+
+.is-seen{
+    margin-top: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-top: 1px solid #212529;
+    border-bottom: 1px solid #212529;
+}
+
+.line   {
+    padding-left: 50px;
+    border-inline-start: 1px solid #212529;
+}
+
+.stat-figure{
+    font-weight: bold;
+}
+
+.signup-title{
+    display: flex;
+    justify-content: center;
+    margin: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+}
+
+.formrows{
+    display: flex;
+    max-height: 100%;
+    height: 38px;
+    justify-content: center;
+    gap: 30px;
+    margin-bottom: 40px;
+}
+
+.money{
+    max-width: 100%;
+    width: 432px;
+}
+
+.stylesform{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+}
+
+.interests{
+    font-size: 1rem;
+    height: 38px;
+    padding: 8px;
+    border: 1px solid #dfdede;
+    align-items: center;
+}
+
+.checkbox{
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-right: 25px;
+    margin-left: none
+    ;
+}
+
+.leftcentered{
+    display: flex;
+    justify-content: left;
+    margin-left: 210px;
+    height: 38px;
+    border: 1px solid #dfdede;
+    width: 432px;
+}
+
+.submitbtn{
+    margin-top: 260px;
+}
+
+.menubuttons{
+    background: none;
+    color: #ffc179;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
